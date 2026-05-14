@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
-    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
-  </a>
-</p>
-
-<h1 align="center"><b>KỸ THUẬT LẬP TRÌNH PYTHON</b></h1>
-
 ## TEAM
 
 | No  | Student ID       | Name              | Email |
@@ -16,14 +8,7 @@
 | 4   | 22520316 | Lê Thanh Duy      | 22520316@gm.uit.edu.vn |
 | 5   | 22520732 | An Nhất Lâm       | 22520732@gm.uit.edu.vn | 
 
-## COURSE INFORMATION
-* **Course Name:** Kỹ thuật lập trình Python
-* **Course Code:** IE221
-* **Class Code:** IE221.Q11
-* **Academic Year:** Semester 1 (2025–2026)
-* **Instructor:** Dr. Nguyễn Tất Bảo Thiện
-
-# IE221 - Foodi: Food Ordering Platform
+# Foodi: Food Ordering Platform
 
 A modern full-stack food ordering web application built with Django REST Framework backend and React frontend, deployed on AWS infrastructure.
 
